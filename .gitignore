@@ -3,6 +3,9 @@
 .cproject
 .settings/*
 
+# elf
+*.elf
+
 # Prerequisites
 *.d
 
