@@ -1,3 +1,9 @@
+/*
+ * main.c
+ *
+ *  Created on: 16.05.2017
+ *      Author: wadim mueller
+ */
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/highgui/highgui.hpp"
 #include <math.h>

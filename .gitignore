@@ -1,3 +1,8 @@
+# eclips project files
+.project
+.cproject
+.settings/*
+
 # Prerequisites
 *.d
 

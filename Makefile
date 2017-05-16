@@ -8,7 +8,7 @@ subdirs := stream/ decoder/
 clean_subdirs := $(addsuffix __clean,$(subdirs))
 
 obj-y += main.o
-target := hsv-detector.elf
+target := hsv-explorer.elf
 
 all-obj = $(sort $(patsubst ./%,%,$(shell find . -type f -name \*.o)))
 
