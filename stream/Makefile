@@ -1,0 +1,1 @@
+obj-y += video-stream-device.o v4l2-stream-device.o
